@@ -1,0 +1,10 @@
+# ninja log v7
+5	78	8158739537103598	CMakeFiles/gen_offsets.dir/src/gen_offsets.c.obj	5372ad9e63d84390
+80	334	8158739537851350	gen_offsets.exe	f1c1220068814925
+334	1057	8158739547541102	generated/offsets.inc	a9587471b9c5421d
+334	1057	8158739547541102	generated/offsets.h	a9587471b9c5421d
+334	1057	8158739547541102	C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/generated/offsets.inc	a9587471b9c5421d
+334	1057	8158739547541102	C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/generated/offsets.h	a9587471b9c5421d
+1062	1085	8158739547674032	CMakeFiles/offset.dir/src/getr1.asm.obj	94181c2fc40efd73
+1058	1127	8158739547628854	CMakeFiles/offset.dir/src/main.c.obj	d6eb8f6b8b34693d
+1128	1435	8158739548331494	offset.exe	1cef025e02669966

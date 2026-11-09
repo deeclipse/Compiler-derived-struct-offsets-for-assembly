@@ -1,0 +1,5 @@
+C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/gen_offsets.dir
+C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/offset.dir
+C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/test.dir
+C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/edit_cache.dir
+C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/rebuild_cache.dir

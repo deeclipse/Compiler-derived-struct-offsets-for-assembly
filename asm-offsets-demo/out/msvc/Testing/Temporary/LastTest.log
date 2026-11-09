@@ -1,0 +1,24 @@
+Start testing: Nov 09 20:39 FLE Standard Time
+----------------------------------------------------------
+1/1 Testing: regs_roundtrip
+1/1 Test: regs_roundtrip
+Command: "C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/offset.exe"
+Directory: C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc
+"regs_roundtrip" start time: Nov 09 20:39 FLE Standard Time
+Output:
+----------------------------------------------------------
+get_r0     got 10, want 10  OK
+get_r1     got 20, want 20  OK
+get_r2     got 30, want 30  OK
+get_pc     got 40, want 40  OK
+set_pc     got 4660, want 4660  OK
+r2 intact  got 30, want 30  OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"regs_roundtrip" end time: Nov 09 20:39 FLE Standard Time
+"regs_roundtrip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 09 20:39 FLE Standard Time

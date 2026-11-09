@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/koksw/source/repos/Compiler-derived-struct-offsets-for-assembly/asm-offsets-demo/out/msvc/CMakeFiles/gen_offsets.dir/embed.manifest"
