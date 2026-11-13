@@ -9,6 +9,7 @@ _Static_assert(offsetof(struct regs, r1) == PT_R1, "stale offsets: r1");
 _Static_assert(offsetof(struct regs, r2) == PT_R2, "stale offsets: r2");
 _Static_assert(offsetof(struct regs, pc) == PT_PC, "stale offsets: pc");
 
+
 extern uint64_t get_r0(struct regs* r);
 extern uint64_t get_r1(struct regs* r);
 extern uint64_t get_r2(struct regs* r);
