@@ -1,5 +1,5 @@
 # Compiler-derived-struct-offsets-for-assembly
-a small repo that saves and restores CPU registers in assembly on an emulated ARM or RISC-V CPU (QEMU), with automated tests that show both that it works and that the safety checks can fail.
+a small repo that saves and restores CPU registers in assembly on an emulated ARM or RISC-V CPU (QEMU), with automated tests that show both that it works and that the safety checks can fail. The test is being performed on an local installed WSL (dist Ubuntu)
 ## M2: Offsets across targets
 <img width="1386" height="628" alt="image" src="https://github.com/user-attachments/assets/9dbe647e-15f1-41a0-a4b8-d485425c9b62" />
 
