@@ -54,3 +54,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# internal info files exposed by the build system
+out/
+build*/
+*.exe
+CMakeCache.txt
+CMakeFiles/
+.ninja_log
+.ninja_deps
